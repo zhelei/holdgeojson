@@ -1,0 +1,104 @@
+{
+          "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "新橋駅",
+          "description": "新橋駅には新しいイベントがありましたよ〜"
+        },
+        "geometry": {
+          "coordinates": [139.758308,35.666601],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "株式会社ジザイめっけ",
+          "description": "MEQQEアプリリリースお祝いイベント"
+        },
+        "geometry": {
+          "coordinates": [139.755995,35.668446],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "一蘭ラーメン",
+          "description": "一蘭ラーメン更に辛さレベルアップできます"
+        },
+        "geometry": {
+          "coordinates": [139.755855,35.667583],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "第一ホテル東京",
+          "description": "ホテルは今日芸能人のイベントがあります"
+        },
+        "geometry": {
+          "coordinates": [139.757357,35.668817],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "横浜銀行",
+          "description": "今日クレジットカード作ると、商品券もらえます"
+        },
+        "geometry": {
+          "coordinates": [139.755767,35.668716],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "ファミリーマート",
+          "description": "おでんの割引です〜"
+        },
+        "geometry": {
+          "coordinates": [139.751220,35.669480],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "KIT虎ノ門大学院",
+          "description": "今日面白い経済講座あります〜無料です"
+        },
+        "geometry": {
+          "coordinates": [139.749462,35.666079],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "日比谷公園",
+          "description": "公園にはお祭りあります、面白そうです。参加してください"
+        },
+        "geometry": {
+          "coordinates": [139.755845,35.673566],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "ローソン 内幸町一丁目店",
+          "description": "ローソンには新しい激辛のカップラーメンが販売されています"
+        },
+        "geometry": {
+          "coordinates": [139.756941,35.669454],
+          "type": "Point"
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  }
